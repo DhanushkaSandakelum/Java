@@ -8,6 +8,7 @@ Welcome to the "Java" repository! This repository is designed to provide fundame
 2. [Getting Started](#getting-started)
 3. [Java Basics](#java-basics)
 4. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+4. [Abstract Classes and Interfaces](#abstract-classes-and-interfaces)
 
 ## Introduction to Java
 
@@ -32,6 +33,11 @@ Learn about the core OOP principles in Java, including classes, objects, inherit
 
 - [OOP - Classes & Objects](/OOP/)
 - [OOP - Advanced Concepts](/OOPAdvancedConcepts/)
+
+## Abstract Classes and Interfaces
+Interfaces and abstract classes are both mechanisms in Java for achieving abstraction and defining contracts, but they have some key differences. Learn more from here,
+
+- [Abstract Classes & Interfaces](/AbstractClassesAndInterfaces/)
 
 
 ## Verdict
