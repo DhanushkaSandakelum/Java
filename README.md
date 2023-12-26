@@ -9,6 +9,7 @@ Welcome to the "Java" repository! This repository is designed to provide fundame
 3. [Java Basics](#java-basics)
 4. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
 4. [Abstract Classes and Interfaces](#abstract-classes-and-interfaces)
+5. [Generics](#generics)
 
 ## Introduction to Java
 
@@ -38,6 +39,12 @@ Learn about the core OOP principles in Java, including classes, objects, inherit
 Interfaces and abstract classes are both mechanisms in Java for achieving abstraction and defining contracts, but they have some key differences. Learn more from here,
 
 - [Abstract Classes & Interfaces](/AbstractClassesAndInterfaces/)
+
+## Generics
+
+Generics in Java provide a mechanism to create flexible and type-safe classes and methods by allowing the definition of classes with placeholder types that are specified when the class is instantiated. Learn about generics from here,
+
+- [Generics](/Generics/)
 
 
 ## Verdict
