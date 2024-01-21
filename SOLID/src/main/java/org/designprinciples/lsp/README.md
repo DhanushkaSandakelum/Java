@@ -1,3 +1,5 @@
+# Liskov Substitution Principle (LSP)
+
 The Liskov Substitution Principle (LSP) states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program. In other words, if a class is a subclass of another class, it should be able to be used interchangeably with its superclass without altering the program's behavior.
 
 Here's a Java example to illustrate the Liskov Substitution Principle using a geometric shape scenario:
