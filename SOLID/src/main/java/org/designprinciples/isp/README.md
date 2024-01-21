@@ -1,4 +1,4 @@
-# Interface Segregate Principle (ISP)
+# Interface Segregation Principle (ISP)
 
 
 The Interface Segregation Principle (ISP) states that a class should not be forced to implement interfaces it does not use. In other words, it suggests that a class should only be required to implement the methods that are relevant to its behavior and not be burdened with unnecessary methods.
