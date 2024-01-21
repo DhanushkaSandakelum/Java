@@ -10,6 +10,9 @@ Welcome to the "Java" repository! This repository is designed to provide fundame
 4. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
 4. [Abstract Classes and Interfaces](#abstract-classes-and-interfaces)
 5. [Generics](#generics)
+6. [Exception Handling](#exception-handling)
+7. [Asynchrounous Programming](#asynchronous-programming)
+8. [SOLID Design Principles with Java](#solid-design-principles-with-java)
 
 ## Introduction to Java
 
@@ -46,6 +49,29 @@ Generics in Java provide a mechanism to create flexible and type-safe classes an
 
 - [Generics](/Generics/)
 
+## Exception Handling
+
+Exception handling is a crucial aspect of Java programming to ensure robust and error-tolerant applications. 
+
+- [Checked Exceptions](/Exceptions/src/checked/)
+- [Unchecked Exceptions](/Exceptions/src/unchecked/)
+- [Assertions](/Exceptions/src/assertions/)
+
+## Asynchronous Programming
+Asynchronous programming in Java is a crucial aspect for building scalable and responsive applications.
+
+- [Parallel Streams](/AsynchronousProgramming//src/main/java/org/async/parallelstreams/)
+- [Completable Futures](/AsynchronousProgramming/src/main/java/org/async/completablefuture/)
+
+## SOLID Design Principles with Java
+
+SOLID is an acronym that represents a set of five design principles for writing maintainable and scalable software. These principles were introduced by Robert C. Martin and are widely used in object-oriented programming. The SOLID principles aim to create more flexible, understandable, and maintainable software by promoting good design practices.
+
+- [Single Responsibility Principle](/SOLID/src/main/java/org/designprinciples/srp/)
+- [Open/Closed Principle](/SOLID/src/main/java/org/designprinciples/ocp/)
+- [Liskov Substitution Principle](/SOLID/src/main/java/org/designprinciples/lsp/)
+- [Interface Segregation Principle](/SOLID/src/main/java/org/designprinciples/isp/)
+- [Dependency Inversion Principle](/SOLID/src/main/java/org/designprinciples/dip/)
 
 ## Verdict
 Feel free to contribute, ask questions, or suggest improvements by opening issues or creating pull requests. Happy coding! 🚀
